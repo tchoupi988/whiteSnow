@@ -2,11 +2,11 @@
     "author" : "DoDo", 
     "name" : "whiteSnow", 
     "keyWords" : "Nowel",
-    "version" : "1.5",
-    "dofusVersion" : "2.61", 
+    "version" : "1.6",
+    "dofusVersion" : "2.62", 
     "description" : "Joyeux Nowel !", 
     "url" : "https://github.com/dodobaudin/whiteSnow/raw/main/whiteSnow.zip",
     "previewUrl" : "https://github.com/dodobaudin/whiteSnow/raw/main/whiteSnow.jpg", 
     "creationDate" : "21/12/2017", 
-    "modificationDate" : "29/11/2021"
+    "modificationDate" : "09/12/2021"
 }]
